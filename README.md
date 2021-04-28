@@ -6,3 +6,4 @@ Download [here](https://queensuca-my.sharepoint.com/:u:/g/personal/14bc30_queens
 
 ## PWCC Dataset of Scanned Cards
 Download [here](https://queensuca-my.sharepoint.com/:u:/g/personal/14bc30_queensu_ca/EbrMLJuDvChGr9TMro-NCh4BOyC8QkG2JysPC7NXhlDCkg?e=R1JgLm) (16.5 GB)
+, CSV [here](https://queensuca-my.sharepoint.com/:x:/g/personal/14bc30_queensu_ca/EaeHNDinsdVEsPw7DIWyAtkBHUCdjbtqUMYEgF2k5NnGLw?e=afEJcc)
